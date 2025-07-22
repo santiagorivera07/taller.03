@@ -1,0 +1,35 @@
+body{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f9;
+            padding: 30px;
+        }
+        h2{
+            text-align: center;
+            color: #333;
+        }
+        table{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th,td{
+            border: 1px solid #ccc;
+            text-align: center;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        th{
+            background-color: #2d89ef;
+            color: white;
+        }
+        td{
+            background-color: #fff;
+        }
+       .Recreo{
+            color: rgb(0, 0, 0);
+            background-color: rgb(5, 141, 46);
+       }
+       .Almuerzo{
+        color: #000000;
+        background-color: rgb(214, 150, 11);
+       }
